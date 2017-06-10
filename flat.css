@@ -1,3 +1,28 @@
+/* Message Panel */
 .panel.item_viewer.message_viewer {
     border-top-left-radius: 0;
+}
+
+/* Message List Panel */
+.toolbar {
+    border-top-left-radius: 0;
+}
+
+/* New Message Button */
+#selenium_new_message_button {
+    border-radius: 0;
+}
+
+/* General buttons */
+.buttons .button {
+    border-radius: 0;
+}
+
+/* Panels */
+.panel.data {
+    border-radius: 0;
+}
+
+.items_list.accounts_list {
+    border-radius: 0;
 }

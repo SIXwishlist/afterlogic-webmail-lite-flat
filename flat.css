@@ -26,3 +26,8 @@
 .items_list.accounts_list {
     border-radius: 0;
 }
+
+/* Folder icon */
+.folders .item .icon.type10:before {
+  content: "\1f4c1";
+}
